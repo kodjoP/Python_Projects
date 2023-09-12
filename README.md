@@ -27,7 +27,7 @@ To analyze a company's supply chain, we need data on the different stages of the
 
 ### <ins>Analysis</ins>
 
-Jupyter Notebook ()
+Jupyter Notebook (https://github.com/kodjoP/Python_Projects/blob/main/Supply%20Chain%20Analysis.ipynb)
 1. import the necessary python libraries (pandas, plotly.express, plotly.io, plotly.graph_objects)
 2. read dataset into the Jupyter Notebook to reveal information such as price, availability, number of products sold, revenue generated and many more
 3. Print descriptive statistics of the dataset
