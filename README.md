@@ -4,7 +4,7 @@ The following are all the python projects in this repository along with the proc
 
 ## <ins>Screen Time Analysys</ins>
 
-Screen time analysis lets you know how much time you spend on what kind of applications and websites using your device and the analysis gives a visual report of the same. For the task of screen time analysis, an ideal dataset (https://github.com/kodjoP/Python_Projects/blob/main/Screentime-App-Details.csv) that cotains data about:
+Screen time analysis lets you know how much time you spend on what kind of applications and websites using your device and the analysis gives a visual report of the same. For the task of screen time analysis, an ideal dataset (https://github.com/kodjoP/Python_Projects/blob/main/Screentime-App-Details.csv) that cotains the data below was used:
 
 1. Date
 2. Usage of Applications
