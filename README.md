@@ -1,6 +1,6 @@
 # <ins>Python Projects</ins>
 
-The following are all the python projects in this repository along with the process that was used to analyze their respective datasets in Jupyter Notebooks
+The following are all the python projects in this repository along with the process that was used to analyze their respective datasets using Jupyter Notebooks
 
 ## <ins>Screen Time Analysys</ins>
 
@@ -13,6 +13,7 @@ Screen time analysis lets you know how much time you spend on what kind of appli
 
 ### <ins>Analysis</ins>
 
+Jupyter Notebook (https://github.com/kodjoP/Python_Projects/blob/main/Screen%20Time%20Analysis.ipynb)
 1. import all necessary python libraries (i.e. pandas, numpy, plotly.express, plotly.graph_objects)
 2. read dataset into Jupyter Notebook
 3. Look through the dataset for any null values and the descriptive statistics of the data (i.e. count, mean, std, min, ...)
