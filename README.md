@@ -23,7 +23,7 @@ Jupyter Notebook (https://github.com/kodjoP/Python_Projects/blob/main/Screen%20T
 
 ## <ins>Supply Chain Analysis</ins>
 
-To analyze a company's supply chain, we need data on the different stages of the supply chain, like data about sourcing, manufacturing, transportation, inventory management, sales and cutomer demographics. The dataset used includes data about the supply chain of a Fashion and Beauty startup ()
+To analyze a company's supply chain, we need data on the different stages of the supply chain, like data about sourcing, manufacturing, transportation, inventory management, sales and cutomer demographics. The dataset used includes data about the supply chain of a Fashion and Beauty startup (https://github.com/kodjoP/Python_Projects/blob/main/supply_chain_data.csv)
 
 ### <ins>Analysis</ins>
 
