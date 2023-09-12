@@ -1,6 +1,6 @@
 # <ins>Python Projects</ins>
 
-The following are all the python projects in this repository along with the process that was used to analyze their respective datasets
+The following are all the python projects in this repository along with the process that was used to analyze their respective datasets in Jupyter Notebooks
 
 ## <ins>Screen Time Analysys</ins>
 
