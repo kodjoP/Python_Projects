@@ -45,7 +45,7 @@ Dataset(https://github.com/kodjoP/Python_Projects/blob/main/california_cities.cs
 
 ### <ins>Analysis</ins>
 
-Jupyter Notebook ()
+Jupyter Notebook (https://github.com/kodjoP/Python_Projects/blob/main/Area%20and%20Population.ipynb)
 1. import pandas library and the above dataset into the Jupyter Notebook
 2. 
 
