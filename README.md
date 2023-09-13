@@ -41,7 +41,7 @@ Jupyter Notebook (https://github.com/kodjoP/Python_Projects/blob/main/Supply%20C
 
 In this project we use the size of points to indicate the area and populations of California cities, a legend that specifies the scale of the sizes of the points, and we accomplish this by plotting some labeled data with no entries.
 
-Dataset()
+Dataset(https://github.com/kodjoP/Python_Projects/blob/main/california_cities.csv)
 
 ### <ins>Analysis</ins>
 
