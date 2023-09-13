@@ -39,6 +39,15 @@ Jupyter Notebook (https://github.com/kodjoP/Python_Projects/blob/main/Supply%20C
 
 ## <ins>Area and Population</ins>
 
+In this project we use the size of points to indicate the area and populations of California cities, a legend that specifies the scale of the sizes of the points, and we accomplish this by plotting some labeled data with no entries.
+
+Dataset()
+
+### <ins>Analysis</ins>
+
+Jupyter Notebook ()
+1. import pandas library and the above dataset into the Jupyter Notebook
+2. 
 
 ## <ins>Netflix Data Analysis</ins>
 
