@@ -47,7 +47,8 @@ Dataset(https://github.com/kodjoP/Python_Projects/blob/main/california_cities.cs
 
 Jupyter Notebook (https://github.com/kodjoP/Python_Projects/blob/main/Area%20and%20Population.ipynb)
 1. import pandas, numpy, matplotlib.pyplot, seaborn library and the above dataset into the Jupyter Notebook
-2. 
+2. Extract data we are interested in (latitude, longitude, population, area)
+3. We plot the points using size and color to differentiate the size of the area and population respectively
 
 ## <ins>Netflix Data Analysis</ins>
 
