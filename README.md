@@ -60,7 +60,7 @@ Netflix is one of the largest providers of online streaming services. It collect
 4. what exactly Netflix is focusing on
 5. Sentiment analysis of content available on Netflix
 
-Dataset()
+Dataset(https://github.com/kodjoP/Python_Projects/blob/main/netflix_titles.csv)
 
 ### <ins>Analysis</ins>
 
