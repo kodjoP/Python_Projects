@@ -78,6 +78,6 @@ In A/B testing, we analyze the results of two marketing strategies to choose the
 
 Dataset
 
-Control Campaign()
+Control Campaign(https://github.com/kodjoP/Python_Projects/blob/main/control_group.csv)
 Test Campaign() 
 
