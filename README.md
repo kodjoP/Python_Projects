@@ -79,5 +79,10 @@ In A/B testing, we analyze the results of two marketing strategies to choose the
 Dataset
 
 Control Campaign(https://github.com/kodjoP/Python_Projects/blob/main/control_group.csv)
-Test Campaign() 
 
+Test Campaign(https://github.com/kodjoP/Python_Projects/blob/main/test_group.csv)
+
+### <ins>Analysis</ins>
+
+Jupyter Notebook()
+1. import pandas, datetime, pltly.graph_objects, plotly.express, plotly.io, 
