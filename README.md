@@ -73,3 +73,11 @@ Jupyter Notebook(https://github.com/kodjoP/Python_Projects/blob/main/Netflix%20D
 
 
 ## <ins>A/B Testing</ins>
+
+In A/B testing, we analyze the results of two marketing strategies to choose the best one for future marketing campaigns. The goal can be to boost sales, followers, or traffic. For the task of A/B testing using python, we need to have a dataset about two different marketing startegies for the same goal. The dataset we are using contains two data files about two marketing campaigns (control campaign and test campaign).
+
+Dataset
+
+Control Campaign()
+Test Campaign() 
+
