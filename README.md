@@ -64,7 +64,7 @@ Dataset(https://github.com/kodjoP/Python_Projects/blob/main/netflix_titles.csv)
 
 ### <ins>Analysis</ins>
 
-Jupyter Notebook()
+Jupyter Notebook(https://github.com/kodjoP/Python_Projects/blob/main/Netflix%20Data%20Analysis.ipynb)
 1. import pandas for data preparation, numpy for linear algebra, plotly.express for data visualization and textblob for sentiment analysis
 2. To begin analysis, we'll look at the distribution of content ratings on Netflix (TV-MA, TV-14, TV-PG, R, PG-13, etc.) using a piechart
 3. Next, we'll look at the top 5 directors and actors on the platform by the total number of content they have uiing horizontal bar chart
