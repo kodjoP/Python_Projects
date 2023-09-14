@@ -52,5 +52,24 @@ Jupyter Notebook (https://github.com/kodjoP/Python_Projects/blob/main/Area%20and
 
 ## <ins>Netflix Data Analysis</ins>
 
+Netflix is one of the largest providers of online streaming services. It collects a huge amount of data because it has a very large subscriber base. We can analyze a lot of data and models from Netflix because this platform has consistently focused on changing business needs by shifting its business model from on-demand DVD movie rental and now focusing on production of their original shows. We will look at some very important models of Netflix data to understand what's best for thei business. Some of the tasks we can analyze from the Netflix data are:
+
+1. understand what content is available
+2. understand the similarities between the content
+3. understand the network between the content
+4. what exactly Netflix is focusing on
+5. Sentiment analysis of content available on Netflix
+
+Dataset()
+
+### <ins>Analysis</ins>
+
+Jupyter Notebook()
+1. import pandas for data preparation, numpy for linear algebra, plotly.express for data visualization and textblob for sentiment analysis
+2. To begin analysis, we'll look at the distribution of content ratings on Netflix (TV-MA, TV-14, TV-PG, R, PG-13, etc.) using a piechart
+3. Next, we'll look at the top 5 directors and actors on the platform by the total number of content they have uiing horizontal bar chart
+4. The next thing to analyze from the data is the trend of production over the years on Netflix and finally sentiment analysis
+5. Using vertical stacked bar chart, we analyze the sentiment of content on Netflix to find that, overall, the positive content is always greater than the neutral and negative content combined.
+
 
 ## <ins>A/B Testing</ins>
