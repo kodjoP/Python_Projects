@@ -46,7 +46,7 @@ Dataset(https://github.com/kodjoP/Python_Projects/blob/main/california_cities.cs
 ### <ins>Analysis</ins>
 
 Jupyter Notebook (https://github.com/kodjoP/Python_Projects/blob/main/Area%20and%20Population.ipynb)
-1. import pandas library and the above dataset into the Jupyter Notebook
+1. import pandas, numpy, matplotlib.pyplot, seaborn library and the above dataset into the Jupyter Notebook
 2. 
 
 ## <ins>Netflix Data Analysis</ins>
