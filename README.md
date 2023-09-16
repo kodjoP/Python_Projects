@@ -84,7 +84,7 @@ Test Campaign(https://github.com/kodjoP/Python_Projects/blob/main/test_group.csv
 
 ### <ins>Analysis</ins>
 
-Jupyter Notebook()
+Jupyter Notebook(https://github.com/kodjoP/Python_Projects/blob/main/AB%20Testing.ipynb)
 1. import pandas, datetime, pltly.graph_objects, plotly.express, and plotly.io, then read the data into the notebook.
 2. To prepare the data, we notice some errors in the column names and before moving forward, we give new column names.
 3. Secondly, we check the dataset for any null values. We notice a row with missing values in the control campaign dataset and continue to fill in the values by the mean value of each column.
