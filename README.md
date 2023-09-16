@@ -85,4 +85,9 @@ Test Campaign(https://github.com/kodjoP/Python_Projects/blob/main/test_group.csv
 ### <ins>Analysis</ins>
 
 Jupyter Notebook()
-1. import pandas, datetime, pltly.graph_objects, plotly.express, plotly.io, 
+1. import pandas, datetime, pltly.graph_objects, plotly.express, and plotly.io, then read the data into the notebook.
+2. To prepare the data, we notice some errors in the column names and before moving forward, we give new column names.
+3. Secondly, we check the dataset for any null values. We notice a row with missing values in the control campaign dataset and continue to fill in the values by the mean value of each column.
+4. Next, we merge the two datasets (control campaign and test campaign) into a new dataset (ab_data)
+5. To get started with A/B testing, we first analyze the relationship between the number of impressions from both campaigns and the amount spent on both campaigns. Per the scatterplot that was generated, the control campaign resulted in more impressions according to the amount spent on both campaigns.
+6. After more ccomparisons, we found that the control campaign resulted in more sales and engagement from the visitors. More products were viewed from the control campaign, resulting in more products in the cart and more sales but the conversation rate of products in the cart is higher in the test campaign. The test campaign resulted in more sales according to the products viewed and added to the cart, and the control campaign results in more sales overall. In conclusion, the test campaign can be used to market a specific product to a specific audience, and the control campaign can be used to market multiple products to a wider audience.
